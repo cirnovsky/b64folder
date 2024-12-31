@@ -1,0 +1,26 @@
+{
+    "name": "base64-folding",
+    "displayName": "Base64 Folding",
+    "description": "Fold and unfold Base64 blocks in any file.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.78.0"
+    },
+    "activationEvents": [
+        "onStartupFinished"
+    ],
+    "main": "./extension.js",
+    "contributes": {
+        "commands": [
+            {
+                "command": "b64folder.fold",
+                "title": "Fold Base64 Blocks"
+            },
+            {
+                "command": "b64folder.unfold",
+                "title": "Unfold Base64 Blocks"
+            }
+        ]
+    },
+    "dependencies": {}
+}
