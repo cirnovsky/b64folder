@@ -1,12 +1,8 @@
-1. # b64folder
+# b64folder
 
    ## Installation
 
-   ### Extension market
-
-   ### Build on your own
-
-   I know it not. Go ask the Internet.
+   Go to the [marketplace](https://marketplace.visualstudio.com/items?itemName=cirnovsky.b64folder) and install it.
 
    ## Usage
 

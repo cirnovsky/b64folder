@@ -1,7 +1,9 @@
 {
-    "name": "base64-folding",
-    "displayName": "Base64 Folding Extension",
+    "name": "b64folder",
+    "displayName": "Base64 Folder",
     "description": "Fold and unfold Base64 blocks in any file.",
+    "publisher": "cirnovsky",
+    "icon": "logo.webp",
     "repository": {
 	    "type": "git",
 	    "url": "https://github.com/cirnovsky/b64folder"
